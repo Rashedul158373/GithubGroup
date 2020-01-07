@@ -46,16 +46,5 @@
         android:text="Login"
         android:textSize="20sp"
         android:textAllCaps="false"/>
-    <EditText
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:hint="Password"
-        android:textSize="20sp"/>
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Login"
-        android:textSize="20sp"
-        android:textAllCaps="false"/>
 
 </LinearLayout>
